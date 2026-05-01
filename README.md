@@ -1,6 +1,6 @@
 
 Author -Parvatham Lohith Rau(Engineer)
-I Love to  Solve Problems
+I Love to Solve Problems
 <!--
 **Lohith10118/Lohith10118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
